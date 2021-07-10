@@ -1,4 +1,9 @@
 # polymorphic-QR-code
+
+deposit DOGE here to fund me , need DOGE coins to test dogecoin-electrum
+<br>
+![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code/main/MY-PMQR-DOGE-recv.gif)
+
 a QR code that supports a short animated loop of 10 seconds on repeat for the same QR code informational value
 
 a piece of information generated from a standard QR code (made as 10 frames represting the same string of information encoded into the first QR code)
@@ -29,5 +34,3 @@ then making another 12 copies of the real QR code and randomly putting holes in 
 then interweaving all 25 frames as above
 
 
-deposit DOGE here to fund me , need DOGE coins to test dogecoin-electrum
-![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code/main/MY-PMQR-DOGE-recv.gif)
