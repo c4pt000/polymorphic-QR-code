@@ -42,7 +42,8 @@ ffmpeg -i %3d.jpg  -framerate 10 MY-PMQR-DOGE-recv.gif
 
 # then QR code is revealed to the user (but still importable to any nearby visual device in plainsight
 ![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code/main/IBM-polymorphic-QR-code.gif)
-
+^^ mental note
+QR code is generated based on a (salt) with OTP that only the phone can import with same matching (salt) and OTP even if the QR code is visible in plainsight (without being animated)
 
 ^^ for best visual really its 25 frames for the QR code animation
 
