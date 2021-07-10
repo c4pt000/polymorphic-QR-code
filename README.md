@@ -1,7 +1,7 @@
 # polymorphic-QR-code
 * 411am
 
-# secure QR code ,
+# secure QR code , from visual hacking with QR codes with sensitive data
 ```
 it can also be part of a secure visual QR code model,
 by only presenting the user with a SURREAL QR code animated loop of the QR code
