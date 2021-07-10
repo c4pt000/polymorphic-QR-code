@@ -28,11 +28,19 @@ cd DOGE-QR-test-polymorphic
 ffmpeg -i %3d.jpg  -framerate 10 MY-PMQR-DOGE-recv.gif
 ```
 
-QR code is protected until paired pin is entered
+# QR code is protected until paired pin is entered
 
 ![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code/main/enter-pin-reveal.gif)
+<br>
+<br>
+<br>
+<br>
+<br>
 
-then QR code is revealed to the user
+
+# a QR code must be generated for import using a 2FA or OTP pin to allow it to be imported
+
+# then QR code is revealed to the user (but still importable to any nearby visual device in plainsight
 ![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code/main/IBM-polymorphic-QR-code.gif)
 
 
