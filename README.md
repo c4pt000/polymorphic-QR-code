@@ -14,15 +14,6 @@ see my other thought model here
 https://github.com/c4pt000/a-PROTECTED_QR_CODE-QR-code-Encryption-layer-for-QR-codes-in-plainsight-and-machine-vision
 
 
-# deposit DOGE here to fund me , need DOGE coins to test dogecoin-electrum
-<br>
-<br>
-<br>
-<br>
-<br>
-
-![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code/main/MY-PMQR-DOGE-recv.gif)
-
 a QR code that supports a short animated loop of 10 seconds on repeat for the same QR code informational value
 
 a piece of information generated from a standard QR code (made as 10 frames represting the same string of information encoded into the first QR code)
@@ -37,7 +28,11 @@ cd DOGE-QR-test-polymorphic
 ffmpeg -i %3d.jpg  -framerate 10 MY-PMQR-DOGE-recv.gif
 ```
 
+QR code is protected until paired pin is entered
 
+![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code/main/enter-pin-reveal.gif)
+
+then QR code is revealed to the user
 ![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code/main/IBM-polymorphic-QR-code.gif)
 
 
@@ -54,5 +49,18 @@ where the frames interweave with a 1 second pause for a total of 25 frames,
 only takes generating the QR code once (making 11 copies of the real QR code to have 12 jpegs of the real QR code)
 then making another 12 copies of the real QR code and randomly putting holes in those 12 images
 then interweaving all 25 frames as above
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# deposit DOGE here to fund me , need DOGE coins to test dogecoin-electrum
+<br>
+<br>
+
+
+![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code/main/MY-PMQR-DOGE-recv.gif)
 
 
