@@ -24,3 +24,7 @@ where the frames interweave with a 1 second pause for a total of 25 frames,
 only takes generating the QR code once (making 11 copies of the real QR code to have 12 jpegs of the real QR code)
 then making another 12 copies of the real QR code and randomly putting holes in those 12 images
 then interweaving all 25 frames as above
+
+
+deposit DOGE here to fund me , need DOGE coins to test dogecoin-electrum
+![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code/main/MY-PMQR-DOGE-recv.gif)
