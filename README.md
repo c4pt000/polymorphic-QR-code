@@ -64,6 +64,14 @@ then interweaving all 25 frames as above
 <br>
 <br>
 
+# deposit DOGE here to fund me , need DOGE coins to test dogecoin-electrum
+<br>
+<br>
+
+
+![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code/main/MY-PMQR-DOGE-recv.gif)
+
+
 
 # android
 # https://play.google.com/store/apps/details?id=us.digitalpay.wallet
@@ -74,13 +82,5 @@ android
 
 ![s1](https://raw.githubusercontent.com/c4pt000/docker-DigitalPay-autosync/main/QR-app-store-install.png)
 
-
-
-# deposit DOGE here to fund me , need DOGE coins to test dogecoin-electrum
-<br>
-<br>
-
-
-![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code/main/MY-PMQR-DOGE-recv.gif)
 
 
