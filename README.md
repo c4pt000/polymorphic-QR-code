@@ -1,6 +1,11 @@
 # polymorphic-QR-code
 
-deposit DOGE here to fund me , need DOGE coins to test dogecoin-electrum
+# deposit DOGE here to fund me , need DOGE coins to test dogecoin-electrum
+<br>
+<br>
+<br>
+<br><br>
+<br><br>
 <br>
 ![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code/main/MY-PMQR-DOGE-recv.gif)
 
