@@ -4,9 +4,9 @@
 <br>
 <br>
 <br>
-<br><br>
-<br><br>
 <br>
+<br>
+
 ![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code/main/MY-PMQR-DOGE-recv.gif)
 
 a QR code that supports a short animated loop of 10 seconds on repeat for the same QR code informational value
