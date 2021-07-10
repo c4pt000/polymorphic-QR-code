@@ -64,6 +64,18 @@ then interweaving all 25 frames as above
 <br>
 <br>
 
+
+# android
+# https://play.google.com/store/apps/details?id=us.digitalpay.wallet
+
+android
+
+![s1](https://raw.githubusercontent.com/c4pt000/docker-DigitalPay-autosync/main/digitalpay-android-QR.png)
+
+![s1](https://raw.githubusercontent.com/c4pt000/docker-DigitalPay-autosync/main/QR-app-store-install.png)
+
+
+
 # deposit DOGE here to fund me , need DOGE coins to test dogecoin-electrum
 <br>
 <br>
