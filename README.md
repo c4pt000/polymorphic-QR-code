@@ -28,7 +28,7 @@ cd DOGE-QR-test-polymorphic
 ffmpeg -i %3d.jpg  -framerate 10 MY-PMQR-DOGE-recv.gif
 ```
 
-# QR code is protected until paired pin is entered
+# QR code is protected until paired pin is entered (upper right calibration dot is removed from every frame)
 
 ![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code/main/enter-pin-reveal.gif)
 <br>
