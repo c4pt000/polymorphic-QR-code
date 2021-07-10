@@ -1,4 +1,14 @@
 # polymorphic-QR-code
+* 411am
+
+it can also be part of a secure visual QR code model,
+by only presenting the user with a SURREAL QR code animated loop of the QR code
+until a pin code is entered
+once a pin code is entered as a OTP or shared pin code
+then the animated loop is revealed with the actual (REAL) QR code as part of the animated loop
+
+instead of nesting a QR code inside of a QR code as a static image
+
 
 # deposit DOGE here to fund me , need DOGE coins to test dogecoin-electrum
 <br>
