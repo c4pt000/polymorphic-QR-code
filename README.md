@@ -16,7 +16,10 @@ a piece of information generated from a standard QR code (made as 10 frames repr
 ten different QR code images with slighty different pin dots (all 10 QR codes generated import the same encoded string)
 
 played as a loop with a 1 second pause between each QR code image creates an animated QR code (polymorphic QR code for import)
+
+
 ```
+cd DOGE-QR-test-polymorphic
 ffmpeg -i %3d.jpg  -framerate 10 MY-PMQR-DOGE-recv.gif
 ```
 
