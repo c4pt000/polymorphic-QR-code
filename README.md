@@ -1,5 +1,7 @@
 https://github.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code
 
+https://github.com/c4pt000/Awesome-qr.js
+
 # polymorphic-QR-code
 
 # DISCOVERED THIS -> https://github.com/EFPrefix/EFQRCode
