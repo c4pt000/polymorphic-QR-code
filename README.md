@@ -1,10 +1,15 @@
 # polymorphic-QR-code
 
-# try it yourself point your browser to http://127.0.0.1
+based off of https://github.com/davidshimjs/qrcodejs
+and also https://jsfiddle.net/v9x1gpLq/6/ for the random dots
 
 ```
 docker run --net host -it c4pt/polymorphic-qr
 ```
+![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code/main/vokoscreen-2021-07-14_10-39-31.gif)
+
+# try it yourself with the docker line above point your browser to http://127.0.0.1
+
 
 * 411am
 
