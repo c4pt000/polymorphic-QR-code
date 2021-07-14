@@ -1,5 +1,7 @@
 # polymorphic-QR-code
 
+# DISCOVERED THIS -> https://github.com/EFPrefix/EFQRCode
+
 todo change dots to 22px or 32px blocks
 ```
 based off of https://github.com/davidshimjs/qrcodejs
