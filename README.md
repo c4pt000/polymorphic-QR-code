@@ -1,4 +1,11 @@
 # polymorphic-QR-code
+
+# try it yourself point your browser to http://127.0.0.1
+
+```
+docker run --net host -it c4pt/polymorphic-qr
+```
+
 * 411am
 
 # secure QR code , from visual hacking with QR codes with sensitive data
