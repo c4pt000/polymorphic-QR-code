@@ -4,6 +4,8 @@ todo change dots to 22px or 32px blocks
 ```
 based off of https://github.com/davidshimjs/qrcodejs
 and also https://jsfiddle.net/v9x1gpLq/6/ for the random dots
+
+crude html version (first attempt)
 ```
 # docker run --net host -it c4pt/polymorphic-qr
 
