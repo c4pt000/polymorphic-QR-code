@@ -1,8 +1,10 @@
 # polymorphic-QR-code
 
+todo change dots to 22px or 32px blocks
+```
 based off of https://github.com/davidshimjs/qrcodejs
 and also https://jsfiddle.net/v9x1gpLq/6/ for the random dots
-
+```
 # docker run --net host -it c4pt/polymorphic-qr
 
 
