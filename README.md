@@ -1,5 +1,7 @@
 ```
  docker run --net host -it c4pt/polymorphic-qr
+ 
+ then open your browser to http://127.0.0.1
 ```
 
 
