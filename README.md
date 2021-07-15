@@ -97,15 +97,6 @@ then interweaving all 25 frames as above
 
 
 
-# android
-# https://play.google.com/store/apps/details?id=us.digitalpay.wallet
-
-android
-
-![s1](https://raw.githubusercontent.com/c4pt000/docker-DigitalPay-autosync/main/digitalpay-android-QR.png)
-
-![s1](https://raw.githubusercontent.com/c4pt000/docker-DigitalPay-autosync/main/QR-app-store-install.png)
-
 
 
 
