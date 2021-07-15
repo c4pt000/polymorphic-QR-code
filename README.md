@@ -3,6 +3,8 @@
 ```
 
 
+![s1](https://github.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code/blob/main/qr-demo-github.gif)
+
 https://github.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code
 
 https://github.com/c4pt000/Awesome-qr.js
