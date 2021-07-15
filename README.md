@@ -120,7 +120,7 @@ then interweaving all 25 frames as above
 <br>
 <br>
 
-# deposit DOGE here to fund me , need DOGE coins to test dogecoin-electrum
+#  electrum-dogecoin confirmed working
 <br>
 <br>
 
