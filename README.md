@@ -1,7 +1,7 @@
 # requires docker
 
 
-# fedora 34 dockerinstall 
+# fedora 34 docker install 
 ```
 yum install qemu-img caja xorg-* mesa-* -y
 
