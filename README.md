@@ -89,6 +89,9 @@ ffmpeg -i %3d.jpg  -framerate 10 MY-PMQR-DOGE-recv.gif
 <br>
 <br>
 
+"also supports animated backgrounds as part of awesome-qr.js utility for QR codes"
+![s1](https://github.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code/blob/main/supports-animated-gif-backgrounds.gif)
+
 
 # a QR code must be generated for import using a 2FA or OTP pin to allow it to be imported
 
@@ -120,6 +123,7 @@ then interweaving all 25 frames as above
 # deposit DOGE here to fund me , need DOGE coins to test dogecoin-electrum
 <br>
 <br>
+
 
 
 
