@@ -1,3 +1,8 @@
+```
+ docker run --net host -it c4pt/polymorphic-qr
+```
+
+
 https://github.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code
 
 https://github.com/c4pt000/Awesome-qr.js
@@ -13,7 +18,6 @@ and also https://jsfiddle.net/v9x1gpLq/6/ for the random dots
 ```
 crude html version (first attempt)
 
-# docker run --net host -it c4pt/polymorphic-qr
 
 
 ![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code/main/vokoscreen-2021-07-14_10-39-31.gif)
