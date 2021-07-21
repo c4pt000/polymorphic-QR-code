@@ -18,7 +18,7 @@ systemctl start docker
 systemctl enable docker
 ```
 
-
+forgot to mark repo public, marked public 07-20-2021 1:00 UTC
 ```
  docker run --net host -it c4pt/polymorphic-qr
  
