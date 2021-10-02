@@ -120,7 +120,7 @@ then interweaving all 25 frames as above
 <br>
 <br>
 
-#  electrum-dogecoin confirmed working
+
 <br>
 <br>
 
