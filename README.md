@@ -1,7 +1,7 @@
     # requires docker
 
 # 01-03-2022 a note to myself or otherwise
-# needs a pause button to stop the QR code in motion and display the actual non moving static QR code when a user wants to screenshot a working QR code and not accidentally screenshot capture a random non-working (in motion QR code with a few pin dots missing)
+# needs a pause button or hidden right click pause function to stop the QR code in motion and display the actual non moving static QR code when a user wants to screenshot a working QR code and not accidentally screenshot capture a random non-working (in motion QR code with a few pin dots missing)
 
 
 
