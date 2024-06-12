@@ -1,3 +1,5 @@
+# only with chrome no firefox support
+    
     # requires docker
 
 # 01-03-2022 a note to myself or otherwise
