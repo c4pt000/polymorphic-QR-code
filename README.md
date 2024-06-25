@@ -1,5 +1,5 @@
 
-# working crude design (require node or python http server)
+# working crude design (requires node or python http server)
 ```
 wget https://github.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code/releases/download/06-24-2024-working-crude-design/QR-CODE-motion.tar.gz
 tar -xvf QR-CODE-motion.tar.gz
