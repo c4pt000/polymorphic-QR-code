@@ -9,6 +9,8 @@ serve .
 
 
 http://localhost:3000
+
+https://bitnft.io/ordinals/v1/inscriptions/d13ca94715b8daad007059e4d37ad431372a470f8c5e66bdf531ba32557fb049i0/content
 ```
 
 
