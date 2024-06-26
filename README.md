@@ -18,6 +18,8 @@ http://localhost:3000
 
 ```
 
+![s1](https://raw.githubusercontent.com/c4pt000/polymorphic-QR-code-and-visual-secure-QR-code/main/IBM-polymorphic-QR-code.gif)
+
 
 
 
